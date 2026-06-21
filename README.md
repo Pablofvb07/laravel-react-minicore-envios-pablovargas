@@ -168,7 +168,7 @@ http://localhost:5173
 
 Video de funcionamiento:
 
-**[PEGAR AQUÍ EL LINK DEL VIDEO]**
+**https://youtu.be/5-ls_iy2Iwo**
 
 ---
 
